@@ -286,7 +286,7 @@ header{
 /* work with us start  */
 .w_us{
     padding-bottom: 100px;
-    background-image: url(/images/withus.jpg);
+    background-image: url(../images/withus.jpg);
     background-repeat:no-repeat;
     background-size: cover;
 }
